@@ -46,6 +46,7 @@ python test.py
 ```
 ## pretrained_model
 I also submited a pretrained model which was trained on a generated satellite dataset contained 20535 128*128-size images.
+
 >saved_model.skpt
 
 ![](./image/2021-12-19-16-21-18.png)
