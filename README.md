@@ -9,7 +9,7 @@ This project is based on the work Homography-Net:
 @article{detone2016deep,
   title={Deep image homography estimation},
   author={DeTone, Daniel and Malisiewicz, Tomasz and Rabinovich, Andrew},
-  journal={arXiv preprint arXiv:1606.03798},
+  journal={arXiv preprint arXiv:1606.03798},c
   year={2016}
 }     
 ```
@@ -22,7 +22,7 @@ This project is based on the work Homography-Net:
 ---
 ## Running the code
 
-Before you run the code,onfirm all options and parameters needed.
+Before you run the code,confirm all options and parameters needed.
 ```
 python generate_dataset.py -h
 ```
