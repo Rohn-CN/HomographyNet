@@ -19,7 +19,9 @@ This project is based on the work Homography-Net:
 - numpy
 - pandas
 - tqdm
+- PIL
 ---
+
 ## Running the code
 
 Before you run the code,onfirm all options and parameters needed.
@@ -48,5 +50,6 @@ python test.py
 I also submited a pretrained model which was trained on a generated satellite dataset contained 20535 128*128-size images.
 
 >saved_model.skpt
+
 
 ![](./image/2021-12-19-16-21-18.png)
